@@ -1,7 +1,5 @@
 ### Hi there I am Harshal Patel 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Home.
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on Instagram.
