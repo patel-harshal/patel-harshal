@@ -27,4 +27,4 @@
 
 [My Programming Books](https://harshalpro224.github.io/mybooks/) 
 
-[Udemy Free Course].(https://patel-harshal.github.io/FreeUdemyCourse/index.html)
+[Udemy Free Course](https://patel-harshal.github.io/FreeUdemyCourse/index.html)
