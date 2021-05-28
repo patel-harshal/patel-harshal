@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-patel-harshal&color=green)
 
 
 ### Hi there I am Harshal Patel 👋
