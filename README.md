@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+
 ### Hi there I am Harshal Patel 👋
 
 - 🔭 I’m currently working on Home.
