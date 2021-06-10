@@ -29,7 +29,7 @@
 	<a href="https://infotechnologyxyz.blogspot.com/">Programmers</a>
 
 <h2>My Website</h2>
-	<a href="https://hashing.ga/">Hashing</a>
+	<a href="http://hashing.ga/">Hashing</a>
 
 <h2>My YOUTUBE Channel</h2>
 	<a href="https://www.youtube.com/channel/UCT6MLEYCUVfPeL8jDPVVmoQ">Programmers0_0</a>
