@@ -15,9 +15,9 @@
 <a href="https://patel-harshal.github.io/">patel-harshal.github.io</a>
 
 ## My Application Download From Playstore
-<a href="https://play.google.com/store/apps/details?id=com.learnhtml5"><img src="playstore.png"  width="120"></a>
+<a href="https://play.google.com/store/apps/developer?id=harshal+patel"><img src="playstore.png"  width="120"></a>
 
-[HTML Learn5 From Playstore](https://play.google.com/store/apps/developer?id=harshal+patel)
+[HTML Learn5 From Playstore](https://play.google.com/store/apps/details?id=com.learnhtml5)
 
 
 <h2>My Application:</h2>
