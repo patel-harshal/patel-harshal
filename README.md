@@ -21,9 +21,9 @@
 
 
 <h2>My Application:</h2>
-	1)<a href="https://play.google.com/store/apps/details?id=com.learnhtml5">HTML Learn</a><br>
-	2)<a href="https://github.com/harshalpro224/Algorithms-app">Algorithm</a><br>
-	3)<a href="https://github.com/harshalpro224/Free-Learning-App">Free Learing</a><br>
+	1) <a href="https://play.google.com/store/apps/details?id=com.learnhtml5">HTML Learn</a><br>
+	2) <a href="https://github.com/harshalpro224/Algorithms-app">Algorithm</a><br>
+	3) <a href="https://github.com/harshalpro224/Free-Learning-App">Free Learing</a><br>
 	
 <h2>My Blogs</h2>
 	<a href="https://infotechnologyxyz.blogspot.com/">Programmers</a>
