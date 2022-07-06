@@ -31,7 +31,7 @@
 	<a href="https://infotechnologyxyz.blogspot.com/">Programmers</a>
 
 <h2>My Website 
-<img src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" alt="Girl in a jacket" style="width:20px;height:20px;"></h2>
+<img src="https://icons-for-free.com/download-icon-hexagon+high+quality+social+social+media+website+www+icon-1320192607626105045_512.png" alt="Girl in a jacket" style="width:20px;height:20px;"></h2>
 	<a href="http://hashing.ga/">Hashing</a>
 
 <h2>My YOUTUBE Channel 
