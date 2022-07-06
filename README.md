@@ -31,7 +31,8 @@
 <h2>My Website</h2>
 	<a href="http://hashing.ga/">Hashing</a>
 
-<h2>My YOUTUBE Channel</h2>
+<h2>My YOUTUBE Channel 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="Girl in a jacket" style="width:20px;height:20px;"></h2> 
 	<a href="https://www.youtube.com/channel/UCT6MLEYCUVfPeL8jDPVVmoQ">Programmers0_0</a>
 
 ## My Github Pages
