@@ -20,12 +20,14 @@
 [HTML Learn5 From Playstore](https://play.google.com/store/apps/details?id=com.learnhtml5)
 
 
-<h2>My Application:</h2>
+<h2>My Application: <img src="https://helios-i.mashable.com/imagery/articles/04EZglaVzAW19V6FIiDD3TA/images-1.fit_lim.size_376x.png" alt="Girl in a jacket" style="width:20px;height:20px;">
+</h2>
 	1) <a href="https://play.google.com/store/apps/details?id=com.learnhtml5">HTML Learn</a><br>
 	2) <a href="https://github.com/harshalpro224/Algorithms-app">Algorithm</a><br>
 	3) <a href="https://github.com/harshalpro224/Free-Learning-App">Free Learing</a><br>
 	
-<h2>My Blogs</h2>
+<h2>My Blogs 
+<img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" alt="Girl in a jacket" style="width:20px;height:20px;"></h2>
 	<a href="https://infotechnologyxyz.blogspot.com/">Programmers</a>
 
 <h2>My Website</h2>
