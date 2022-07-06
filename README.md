@@ -30,20 +30,21 @@
 <img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" alt="Girl in a jacket" style="width:20px;height:20px;"></h2>
 	<a href="https://infotechnologyxyz.blogspot.com/">Programmers</a>
 
-<h2>My Website</h2>
+<h2>My Website 
+<img src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" alt="Girl in a jacket" style="width:20px;height:20px;"></h2>
 	<a href="http://hashing.ga/">Hashing</a>
 
 <h2>My YOUTUBE Channel 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="Girl in a jacket" style="width:20px;height:20px;"></h2> 
 	<a href="https://www.youtube.com/channel/UCT6MLEYCUVfPeL8jDPVVmoQ">Programmers0_0</a>
 
-## My Github Pages
+## My Github Pages <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Girl in a jacket" style="width:20px;height:20px;">
 
 [My Programming Books](https://patel-harshal.github.io/mybooks/) 
 
 [Udemy Free Course](https://patel-harshal.github.io/FreeUdemyCourse/index.html)
 
-## Courses!
+## Courses! <img src="https://sashabarab.org/wp-content/uploads/2015/02/course-icon.png" alt="Girl in a jacket" style="width:20px;height:20px;">
 
 ## [Ethical Hacking Course!](https://github.com/patel-harshal/Ethiacl-Hacking-Course)
 
