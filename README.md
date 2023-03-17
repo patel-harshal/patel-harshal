@@ -10,7 +10,7 @@
 - 💬 Ask me about React Native, PHP, Python, Web Development.
 - 📫 How to reach me: Instagram(<a href="https://www.instagram.com/programmers0_0">@programmers0_0</a>) And Twitter(<a href="https://twitter.com/programmers0_0">@programmers0_0</a>)
 - ⚡ Fun fact: Cretae a Problam and try to solve that's.
--  Harshal Patel[Linkedin](https://www.linkedin.com/in/harshal-bhagat21/)
+-  Harshal Patel [Linkedin](https://www.linkedin.com/in/harshal-bhagat21/)
 <h2>My Portfolio:</h2>
 <a href="https://patel-harshal.github.io/">patel-harshal.github.io</a>
 
