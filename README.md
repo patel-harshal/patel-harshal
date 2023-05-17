@@ -22,8 +22,6 @@
 
 <a href="https://play.google.com/store/apps/developer?id=harshal+patel"><img src="playstore.png"  width="120"></a>
 
-[HTML Learn5 From Playstore](https://play.google.com/store/apps/details?id=com.learnhtml5)
-
 
 <h2>My Application: <img src="https://helios-i.mashable.com/imagery/articles/04EZglaVzAW19V6FIiDD3TA/images-1.fit_lim.size_376x.png" alt="Girl in a jacket" style="width:20px;height:20px;">
 </h2>
