@@ -15,6 +15,11 @@
 <a href="https://patel-harshal.github.io/">patel-harshal.github.io</a>
 
 ## My Application Download From Playstore
+<a href="https://play.google.com/store/apps/details?id=com.learnhtml5"><img src="LearnHTML.png"  width="100"></a>
+<a href="https://play.google.com/store/apps/details?id=com.ulearn"><img src="ULeran.png"  width="100"></a>
+<a href="https://play.google.com/store/apps/details?id=com.signalgroupapp"><img src="SignalGroup.png"  width="100"></a>
+<a href="https://play.google.com/store/apps/details?id=com.magicalai"><img src="MagicalAI.png"  width="100"></a>
+
 <a href="https://play.google.com/store/apps/developer?id=harshal+patel"><img src="playstore.png"  width="120"></a>
 
 [HTML Learn5 From Playstore](https://play.google.com/store/apps/details?id=com.learnhtml5)
