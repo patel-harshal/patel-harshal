@@ -14,6 +14,12 @@
 <h2>My Portfolio:</h2>
 <a href="https://patel-harshal.github.io/">patel-harshal.github.io</a>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=patel-harshal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=patel-harshal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=patel-harshal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ## My Application Download From Playstore
 <a href="https://play.google.com/store/apps/details?id=com.learnhtml5"><img src="LearnHTML.png"  width="100"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ulearn"><img src="ULeran.png"  width="100"></a>
