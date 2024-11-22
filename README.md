@@ -40,8 +40,7 @@
 <img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" alt="Girl in a jacket" style="width:20px;height:20px;"></h2>
 	<a href="https://infotechnologyxyz.blogspot.com/">Programmers</a>
 
-<h2>My Website 
-<img src="https://icons-for-free.com/download-icon-hexagon+high+quality+social+social+media+website+www+icon-1320192607626105045_512.png" alt="Girl in a jacket" style="width:20px;height:20px;"></h2>
+
 	<!-- <a href="http://hashing.ga/">Hashing</a> -->
 
 
