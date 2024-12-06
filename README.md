@@ -41,9 +41,6 @@
 	<a href="https://infotechnologyxyz.blogspot.com/">Programmers</a>
 
 
-	<!-- <a href="http://hashing.ga/">Hashing</a> -->
-
-
 ## My Github Pages <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Girl in a jacket" style="width:20px;height:20px;">
 
 [My Programming Books](https://patel-harshal.github.io/mybooks/) 
