@@ -14,6 +14,10 @@
 
 <h2>My Portfolio:</h2>
 <a href="https://patel-harshal.github.io/">patel-harshal.github.io</a>
+<a href="https://learnhtml5.vercel.app/">Learn HTML5</a>
+<a href="https://magicalai.vercel.app/">Magical AI</a>
+<a href="https://signalgroup.vercel.app/">Signal Group Link</a>
+<a href="https://ulearnapp.vercel.app/">U Learn</a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=patel-harshal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
